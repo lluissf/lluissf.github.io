@@ -13,4 +13,4 @@ Bem-vindo(a) à minha página no GitHub! Este é o meu espaço para testar ideia
 Se quiser conversar ou acompanhar o que ando fazendo:
 
 * [Meu LinkedIn](https://linkedin.com/in/luisfelipeferreiradasilva)
-* [Meu Instagram](https://instagram.com/_.luissf_)
+* [Meu Instagram](https://instagram.com/_.luissf)
